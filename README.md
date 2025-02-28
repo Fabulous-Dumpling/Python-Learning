@@ -1,4 +1,5 @@
 # Python-Learning
 
 # My Python Learning journey 
-I will record my progress here.
+
+# CS50P - Lection 1 - Functions, Variables  
